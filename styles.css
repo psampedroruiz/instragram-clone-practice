@@ -31,9 +31,13 @@ body{
     margin-top:50px;
 }
 
+.insta-entry:last-child{
+    margin-bottom:50px;
+}
+
 .insta-entry{
     background-color:white;
-    margin-top:100px;
+    margin-top:60px;
     width: 400px;
     margin-left:auto;
     margin-right:auto;
